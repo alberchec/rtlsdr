@@ -1,0 +1,10 @@
+#Ignore DS_Store
+.DS_Store
+
+#Ignore .out files
+*.out
+
+#Ignore audio files
+*.wav
+*.raw
+*.mp3
